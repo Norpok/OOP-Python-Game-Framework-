@@ -1,5 +1,6 @@
 # OOP-Python-Game-Framework-
 A simple terminal-based adventure game built using Python's Object-Oriented Programming concepts. The player navigates through connected rooms using text commands. Each room has its own description and possible directions.
+<<<<<<< HEAD
 
 🎯 Project Objective
 This project was designed to:
@@ -42,3 +43,5 @@ Add items in rooms
 Implement puzzles or enemies
 Add score tracking or inventory system
 Save/load game state
+=======
+>>>>>>> 7b8ad78 (Added Take/Use methods for items in Item Class)
